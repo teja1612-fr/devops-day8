@@ -1,4 +1,4 @@
- Git Branching and Pull Request Workflow
+# Git Branching and Pull Request Workflow
 
 ## Project Overview
 
